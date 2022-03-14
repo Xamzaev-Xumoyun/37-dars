@@ -10,7 +10,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     row-gap: 30px;
-    column-gap: 50px;
+    column-gap: 20px;
 }
 
 .list__item{
